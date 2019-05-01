@@ -12,6 +12,6 @@ elsif num % 2 == 0
 false
 elsif num % 3 == 0
 false
-else false
+else true
 end
 end
