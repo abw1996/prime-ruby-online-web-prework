@@ -7,7 +7,7 @@ def prime?(num)
 elsif num == 3
 true
 elsif num < 0 
-true
+false
 elsif num % 2 == 0
 false
 elsif num % 3 == 0
