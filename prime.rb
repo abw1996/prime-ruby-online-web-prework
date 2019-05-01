@@ -10,3 +10,4 @@ elsif num % 2 == 0 || num % 3 == 0
 false
 else true
 end
+end
